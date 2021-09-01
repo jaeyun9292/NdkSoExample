@@ -1,0 +1,3 @@
+rootProject.name = "NdkSoExample"
+include ':app'
+include ':ndklib'
